@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  3rd-year BSIT Undergrad majoring in Network Administration (NetAd) at Central Luzon State University
+  BSIT Undergrad majoring in Network Administration (NetAd) at Central Luzon State University
 </p>
 
 ---
