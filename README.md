@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpeg" alt="Arnold's banner" width="600" />
+  <img src="logo.jpeg" alt="Arnold's banner" width="600 style="border-radius: 20px;" />
 </p>
 
 <p align="center">
